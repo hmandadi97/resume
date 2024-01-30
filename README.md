@@ -1,13 +1,13 @@
-# DevOps Engineer & AWS Specialist
+#  👨‍💻☁️ DevOps Engineer & AWS Specialist
 
-#### Summary: 
+####  📝 Summary: 
 I'm Hemanth Mandadi, a skilled DevOps Engineer with over 5 years of hands-on experience in automating and optimizing critical deployments in on-premises and cloud environments, particularly AWS. I am adept at orchestrating CI/CD pipelines, achieving cybersecurity compliance, and managing diverse infrastructures. My expertise lies in middleware administration, IoT integration, and systems management across various platforms. I hold AWS and Python certifications, which complement my extensive experience. 
 
-#### Technical Skills:
+#### 🛠️ Technical Skills:
 
 - **Cloud and Infrastructure**: _AWS_
 - **Containerization Tools**: _Docker, Docker Compose, EKS, ECS_
-- **Infrastructure as Code (IaC)**: _CloudFormation, Terraform_
+- **Infrastructure as Code (IaC)**: _CloudFormation, Terraform_ 
 - **Operating Systems**: _Windows, Linux, AWS marketplace AMI’s_
 - **CI/CD & Configuration Management**: _Bitbucket, Jenkins, Ansible, Terraform_
 - **Source Control Tools**: _Bitbucket, GitHub_
