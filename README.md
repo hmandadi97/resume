@@ -20,23 +20,23 @@ I'm Hemanth Mandadi, a skilled DevOps Engineer with over 5 years of hands-on exp
   
 ## 🎓 Education
 - **Master of Science** | Electrical & Computer Science Engineering | <a href="https://www.lakeheadu.ca/" target="_blank">Lakehead University</a> , Thunder Bay, ON (_Sept 2017 - April 2019_)		  		
-- **Bachelors in Technology** | Electrical & Computer Science Engineering | <a href="https://www.srmist.edu.in/" target="_blank">SRM University</a> , India (Aug 2011 - April 2015_)
+- **Bachelors in Technology** | Electrical & Computer Science Engineering | <a href="https://www.srmist.edu.in/" target="_blank">SRM University</a> , India (_Aug 2011 - April 2015_)
 
 
 ## 💼 Work experience 
-### DevOps Specialist, <a href="https://letstalkscience.ca/" target="_blank">Let’s Talk Science</a>, London, ON (10/2021 - Current)
+### DevOps Specialist, <a href="https://letstalkscience.ca/" target="_blank">Let’s Talk Science</a>, London, ON (_10/2021 - Current_)
 - As Let’s Talk Science's DevOps Specialist, I have led AWS infrastructure management since October 2021. 
 - Set up ECS (Fargate) for PHP, JavaScript, and .NET applications, optimized traffic via Route53, and CloudFront/S3, and implemented Bitbucket CI/CD pipelines. 
 - Managed AWS resources with Terraform scripts, on-premises infrastructure with XCP-ng, ansible, and monitored cloud resources through CloudWatch. 
 - Contributed to achieving Cyber Security Certification for compliance.
 
-### Middleware and DevOps Administrator, <a href="https://shoplogix.com/" target="_blank">Shoplogix</a>, Oakville, ON (04/2019 - 09/2021)
+### Middleware and DevOps Administrator, <a href="https://shoplogix.com/" target="_blank">Shoplogix</a>, Oakville, ON (_04/2019 - 09/2021_)
 - Led an AWS-managed project merging Sisense for IoT dashboards. 
 - Set up efficient AWS services, managed monitoring tools, automated AWS EKS, and collaborated on Sisense integration ensuring security. 
 - Utilized visualization tools for clear IoT data analysis. 
 - Defined DevOps processes with cybersecurity measures and deployed CI/CD solutions through AWS Code Pipeline and Code Build.
 
-### Systems Administrator, <a href="https://www.wipro.com/" target="_blank">Wipro</a>, Chennai (08/2015 - 04/2017)
+### Systems Administrator, <a href="https://www.wipro.com/" target="_blank">Wipro</a>, Chennai (_08/2015 - 04/2017_)
 - Played a pivotal role in managing and securing both on-premises and cloud-based infrastructure. 
 - Responsibilities included user account management, network security, server maintenance, and Python scripting for automation. 
 - Implemented infrastructure tools for transition to AWS, leveraging virtual server computing. 
