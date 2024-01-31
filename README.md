@@ -51,4 +51,4 @@ I'm Hemanth Mandadi, a skilled DevOps Engineer with over 5 years of hands-on exp
 | **Name** | Hemanth Mandadi |
 | **E-mail** | [hemanthmandadi@gmail.com](mailto:hemanthmandadi@gmail.com) 
 | **Phone** | +1(548)-333-7337 |
-| **Location** | Canada |
+| **Location** | Canada | 
